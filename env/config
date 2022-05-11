@@ -1,0 +1,11 @@
+[database]
+host="localhost"
+port="5432"
+user="postgres"
+password="postgres"
+dbname="postgres"
+migrationDir="migrations/sql"
+sslMode="disable"
+connectionTimeout="5"
+statementTimeout="30000"
+idleInTransactionSessionTimeout="30000"
